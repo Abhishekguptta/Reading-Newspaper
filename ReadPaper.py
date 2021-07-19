@@ -6,4 +6,4 @@ def speak(str):
     speak.speak(str)
     
 if __name__ == '__main__':
-    speak("You are the number one.")    
+    speak("You are the number one AB.")    
